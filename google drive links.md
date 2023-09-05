@@ -1,4 +1,4 @@
-#google drive folder includes both snake images and model.pkl
+google drive folder includes both snake images and model.pkl
 
 [Google drive folder](https://drive.google.com/drive/folders/1Anqir7YNB-4TpZ-eIOWprbuC18sT8Kkp?usp=sharing)
 
